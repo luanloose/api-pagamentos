@@ -18,7 +18,7 @@ Api de pagamentos
 
 1. Suba os containers
 
-2. Rode o comando `docker container exec infra-api_php_1 ../vendor/bin/phpunit ../tests`
+2. Rode o comando `docker container exec api-pagamentos-back-end ../vendor/bin/phpunit ../tests`
 
 ### Documentação
 
